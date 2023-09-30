@@ -1,0 +1,21 @@
+.home-content-container {
+    margin-top: 27px;
+    margin-left: 41px;
+}
+
+.home-content-container h1 {
+    color: var(--color-font-primary);
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 2%;
+
+}
+
+.home-content-container h3 {
+    color: var(--color-font-tertialy);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 40px;
+    letter-spacing: 2%;
+}
