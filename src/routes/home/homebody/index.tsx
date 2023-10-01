@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './styles.css'
 
 export default function HomeBody() {
@@ -6,7 +7,8 @@ export default function HomeBody() {
     <div className="home-content-container">
       <h1>Desafio Github API</h1>
       <h3>DevSuperior - Escola de programação</h3>
-      <button>Começar</button>
+      <Link to="/profile"><button>Começar</button></Link>
+      
     </div>
     </>
   );
