@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import "./styles.css";
 import TestImg from "../../../assets/image1.png";
 import { useState } from "react";
