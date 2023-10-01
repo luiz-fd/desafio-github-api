@@ -69,6 +69,44 @@
     padding-left: 10px;
 }
 
+.profile-info-item {
+    border: 1px solid;
+    border-color: var(--color-border-primary);
+    color: var(--color-font-six);
+    width:872px;
+    height: 40px;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+}
+
+.profile-info-item h1 {
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.profile-info-item h2 {
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.profile-info-item a {
+    color: var(--color-link-primary);
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.profile-info-item a:visited {
+    color: var(--color-link-primary);
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
 .profile-error-container {
     background-color: var(--color-bg-primary);
     height: 334px;

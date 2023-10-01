@@ -11,6 +11,12 @@
   --color-font-tertialy: #7E7E7E;
   --color-font-quartialy: #262626;
   --color-font-quintialy: #1890FF;
+  --color-font-six: #737373;
+
+  --color-border-primary: #D9D9D9;
+
+  --color-link-primary: #0029FF;
+  --color-link-secondary: #737373;
 }
 
 * {
