@@ -1,27 +1,16 @@
-# React + TypeScript + Vite
+# Desafio Github API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
+Projeto criado durante o treinamento FrontEnd ReactJS, organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
-Currently, two official plugins are available:
+O projeto consiste na implementação dos componentes e rotas navegáveis, que posibilite a busca na API do github pelo username digitado e a renderização do retorno, obedecendo o layout [fornecido](https://www.figma.com/file/igQqM14f9sP17jyo54Y8vL/DesafioGithubAPI?type=design&node-id=0-1&mode=design&t=KATLMc6AHvaqt1Ie-0)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# Tecnologias utilizadas
+## Front end
+- CSS
+- HTML
+- JavaScript
+- ReactJS
+- TypeScript
+- Vite
