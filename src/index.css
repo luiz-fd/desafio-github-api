@@ -3,10 +3,14 @@
 :root {
   --color-bg-primary: #FFF;
   --color-bg-secondary: #1890FF;
+  --color-bg-teriary: #E6F7FF;
+  --color-bg-quartialy: #F5F5F5;
 
   --color-font-primary: #000;
   --color-font-secondary: #FFF;
   --color-font-tertialy: #7E7E7E;
+  --color-font-quartialy: #262626;
+  --color-font-quintialy: #1890FF;
 }
 
 * {

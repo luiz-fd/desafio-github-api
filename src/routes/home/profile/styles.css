@@ -1,0 +1,86 @@
+.profile-search-container {
+    background-color: var(--color-bg-teriary);
+    width: 1251px;
+    height: 270px;
+    border-radius: 16px;
+    justify-self: center;
+    margin: 54px auto;
+    display: block;
+    padding-left: 31px;
+    padding-top: 54px;
+}
+
+.profile-search-container h1 {
+    color: var(--color-font-quartialy);
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+}
+
+.profile-search-container input {
+    width: 298px;
+    height: 40px;
+    margin-top: 12px;
+}
+
+.profile-search-container button {
+    margin-top: 23px;
+}
+
+.profile-result-card {
+    background-color: var(--color-bg-quartialy);
+    height: 334px;
+    width: 1251px;
+    border-radius: 8px;
+    display: flex;
+    margin: auto;
+}
+
+.profile-result-card img {
+    width: 247px;
+    height: 247px;
+    margin-top: 43px;
+    margin-left: 38px;
+}
+
+.profile-info {
+    background-color: var(--color-bg-primary);
+    width: 902px;
+    height: 247px;
+    display: inline;
+    margin-top: 43px;
+    margin-left: 29px;
+    padding-left: 14px;
+}
+
+.profile-info h4 {
+    color: var(--color-font-quintialy);
+    margin-top: 8px;
+    margin-bottom: 16.5px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.profile-info input {
+    width:872px;
+    height: 40px;
+    margin: 2.5px auto;
+    padding-left: 10px;
+}
+
+.profile-error-container {
+    background-color: var(--color-bg-primary);
+    height: 334px;
+    width: 1251px;
+    border-radius: 8px;
+    display: flex;
+    margin: auto;
+}
+
+.profile-error-container h1 {
+    color: var(--color-font-quartialy);
+    font-size: 38px;
+    line-height: 46px;
+    font-weight: 500;
+}
